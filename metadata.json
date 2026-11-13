@@ -1,0 +1,6 @@
+{
+  "name": "UNKLAB HUB",
+  "description": "One Platform, Every Campus Activity — Pusat Kalender Akademik dan Kegiatan Kampus Universitas Klabat",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
